@@ -12,7 +12,8 @@ Technologies Used <br />
 ➼ ANSI Escape Codes: For colorful terminal output. <br /> <br />
 
 --> Make it executable <br />
-    1. "go mod init sun". <br />
-    1. "go build". This will create executable file named sun. <br />
-    2. "sudo mv sun /usr/local/bin". This will push the file into the bin and will be available eveywhere. <br />
-    3. open terminal and type "sun" or "sun city_name" <br /> <br />
+    1. Copy the file named "main.go" and put it inside a direcotry and follow the below commands. <br />
+    2. "go mod init sun". <br />
+    3. "go build". This will create executable file named sun. <br />
+    4. "sudo mv sun /usr/local/bin". This will push the file into the bin and will be available eveywhere. <br />
+    5. open terminal and type "sun" or "sun city_name". <br /> <br />
